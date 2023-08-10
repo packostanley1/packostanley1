@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @packostanley1
-- 👀 I’m interested in learn about web dev.
-- 🌱 I’m currently learning front end, and backend.
+- 👀 I’m a Back end student, who loves learn new thing's.
+- 🌱 I’m currently BackEnd student at Oracle Next Education.
   So thank you for read me.
 
 <!---
